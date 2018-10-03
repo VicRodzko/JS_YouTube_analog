@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#iframe {
+	width: 800px;
+	height: 400px;
+	display: block;
+	margin: 0 auto;
+}
+.cntForSimilarVideo {
+	width: 800px;
+	margin: 0 auto;
+}
+.iframeSimilar {
+	width: 200px;
+}
+body {
+	text-align: center;
+}
+input {
+	padding: 5px 10px 5px 10px;
+	margin: 30px;
+	border-radius: 5px;
+	background: #DCDCDC;
+}
+button {
+	background: #DCDCDC;
+	border-radius: 5px;
+	padding: 5px 10px 5px 10px;
+}
+button:hover {
+	background: #87CEFA;
+}
+input:hover {
+	background: #87CEFA;
+}
